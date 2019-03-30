@@ -2,6 +2,12 @@ body {
   background-color: #97B1CB;
 }
 
+#bottom-div {
+  padding-top: 100px;
+  height:200px;
+  text-align: center;
+}
+
 .col-4 {
   text-align: center;
   padding: 20px 20px 20px 20px;
