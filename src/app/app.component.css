@@ -2,10 +2,9 @@ body {
   background-color: #97B1CB;
 }
 
-#bottom-div {
-  padding-top: 100px;
+img {
   height:200px;
-  text-align: center;
+  width: 200px;
 }
 
 .col-4 {
@@ -13,11 +12,12 @@ body {
   padding: 20px 20px 20px 20px;
 }
 
-#header {
+#bottom-div {
+  padding-top: 100px;
   height:200px;
+  text-align: center;
 }
 
-img {
+#header {
   height:200px;
-  width: 200px;
 }
